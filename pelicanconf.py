@@ -46,3 +46,8 @@ MD_EXTENSIONS = [
     'toc',
     'linksShortcuts:Shortcuts',
 ]
+
+STATIC_PATHS = ['extra', ]
+EXTRA_PATH_METADATA = {'extra/README': {'path': 'README.md'},
+                       'extra/.nojekyll': {'path': '.nojekyll'},
+                       }
