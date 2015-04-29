@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>spseol.github.io</title><link href="/" rel="alternate"></link><link href="/feeds/blog.atom.xml" rel="self"></link><id>/</id><updated>2015-04-22T13:48:00+02:00</updated><entry><title>VOŠ s SPŠE Olomouc na GitHubu</title><link href="/vos-s-spse-olomouc-na-githubu.html" rel="alternate"></link><updated>2015-04-22T13:48:00+02:00</updated><author><name>Marek Nožka</name></author><id>tag:,2015-04-22:vos-s-spse-olomouc-na-githubu.html</id><summary type="html">&lt;p&gt;Na této stránce bych vás rád upozornil na několik našich zajímavých repozitářů:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=""&gt;CzechFlaskDoc&lt;/a&gt;: &lt;a href="http://spseol.github.io/CzechFlaskDoc/"&gt;http://spseol.github.io/CzechFlaskDoc/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=""&gt;PyQt-4-Documentation&lt;/a&gt;: &lt;a href="http://spseol.github.io/PyQt-4-Documentation/"&gt;http://spseol.github.io/PyQt-4-Documentation/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="github"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>spseol.github.io</title><link href="/" rel="alternate"></link><link href="/feeds/blog.atom.xml" rel="self"></link><id>/</id><updated>2015-04-22T13:48:00+02:00</updated><entry><title>VOŠ s SPŠE Olomouc na GitHubu</title><link href="/vos-s-spse-olomouc-na-githubu.html" rel="alternate"></link><updated>2015-04-22T13:48:00+02:00</updated><author><name>Marek Nožka</name></author><id>tag:,2015-04-22:vos-s-spse-olomouc-na-githubu.html</id><summary type="html">&lt;p&gt;Na této stránce bychom rádi upozornil na několik (dle našeho mínění zajímavých)
+repositářů. Tyto repositáře nějakým způsobem souvisí s prací studentů a/nebo
+učitelů na &lt;a href="http://www.spseol.cz/"&gt;&lt;span class="caps"&gt;VO&lt;/span&gt;Š a &lt;span class="caps"&gt;SP&lt;/span&gt;ŠE Olomouc&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="ceska-dokumentace-k-modulu-flask"&gt;Česká dokumentace k modulu &lt;a href="http://flask.pocoo.org/"&gt;Flask&lt;/a&gt;:&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;strong&gt;Webové stránky&lt;/strong&gt;:&lt;/dt&gt;
+&lt;dd&gt;&lt;a href="http://spseol.github.io/CzechFlaskDoc/"&gt;http://spseol.github.io/CzechFlaskDoc/&lt;/a&gt;&lt;/dd&gt;
+&lt;dt&gt;Repositář:&lt;/dt&gt;
+&lt;dd&gt;&lt;a href="https://github.com/spseol/CzechFlaskDoc"&gt;https://github.com/spseol/CzechFlaskDoc&lt;/a&gt;&lt;/dd&gt;
+&lt;dt&gt;Vypracoval:&lt;/dt&gt;
+&lt;dd&gt;Václav&amp;nbsp;Hlavinka&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id="cesky-tutorial-pro-knihovny-pyqt"&gt;Český tutoriál pro knihovny &lt;a href="https://cs.wikipedia.org/wiki/PyQt"&gt;PyQt&lt;/a&gt;&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;strong&gt;Webové stránky&lt;/strong&gt;:&lt;/dt&gt;
+&lt;dd&gt;&lt;a href="http://spseol.github.io/PyQt4Doc/"&gt;http://spseol.github.io/PyQt4Doc/&lt;/a&gt;&lt;/dd&gt;
+&lt;dt&gt;Repositář:&lt;/dt&gt;
+&lt;dd&gt;&lt;a href="https://github.com/spseol/PyQt4Doc"&gt;https://github.com/spseol/PyQt4Doc&lt;/a&gt;&lt;/dd&gt;
+&lt;dt&gt;Vypracoval:&lt;/dt&gt;
+&lt;dd&gt;Adam&amp;nbsp;Obrtel &lt;/dd&gt;
+&lt;/dl&gt;</summary><category term="github"></category></entry></feed>
