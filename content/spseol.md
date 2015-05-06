@@ -11,7 +11,8 @@ Na této stránce bychom rádi upozornil na několik (dle našeho mínění zaj�
 repositářů. Tyto repositáře nějakým způsobem souvisí s prací studentů a/nebo
 učitelů na [VOŠ a SPŠE Olomouc](http://www.spseol.cz/).
 
-# Česká dokumentace k modulu [Flask][]:
+Česká dokumentace k modulu [Flask][]:
+======================================
 
 **Webové stránky**:
 : <http://spseol.github.io/CzechFlaskDoc/>
@@ -22,7 +23,8 @@ Repositář:
 Vypracoval:
 : Václav Hlavinka
 
-# Český tutoriál pro knihovny [PyQt](https://cs.wikipedia.org/wiki/PyQt)
+Český tutoriál pro knihovny [PyQt](https://cs.wikipedia.org/wiki/PyQt)
+=========================================================================
 
 **Webové stránky**:
 : <http://spseol.github.io/PyQt4Doc/>
@@ -32,3 +34,15 @@ Repositář:
 
 Vypracoval:
 : Adam Obrtel 
+
+
+UlProg -- Úlohy pro výuku programování
+==========================================
+
+Pokus o shromáždění zajímavých úloh použitelných při výuce programování.
+
+**Webové stránky**:
+: <http://spseol.github.io/ulprog/>
+
+Repositář:
+: <https://github.com/spseol/ulprog>
